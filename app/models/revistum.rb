@@ -1,0 +1,2 @@
+class Revistum < ApplicationRecord
+end

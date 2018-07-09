@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  IdRevista: 1
+  Nombre: MyString
+  Editorial: MyString
+  Volumen: 1
+  Numero: 1
+  PaginaInicio: 1
+  PaginaFin: 1
+
+two:
+  IdRevista: 1
+  Nombre: MyString
+  Editorial: MyString
+  Volumen: 1
+  Numero: 1
+  PaginaInicio: 1
+  PaginaFin: 1

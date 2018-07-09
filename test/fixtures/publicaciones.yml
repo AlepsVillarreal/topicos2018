@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  IdPublicacion: 1
+  Titulo: MyString
+  NumeroSecuencia: 1
+  IdCongreso: 1
+  IdRevista: MyString
+  integer: MyString
+
+two:
+  IdPublicacion: 1
+  Titulo: MyString
+  NumeroSecuencia: 1
+  IdCongreso: 1
+  IdRevista: MyString
+  integer: MyString

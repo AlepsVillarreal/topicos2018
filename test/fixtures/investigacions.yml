@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  IdInvestigacion: 1
+  Nombre: MyString
+  Descripcion: MyString
+  IdProyecto: 1
+  IdProfesor: 1
+  IdPublicacion: 1
+
+two:
+  IdInvestigacion: 1
+  Nombre: MyString
+  Descripcion: MyString
+  IdProyecto: 1
+  IdProfesor: 1
+  IdPublicacion: 1
